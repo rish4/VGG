@@ -1,1 +1,1 @@
-# VGG-on-KID
+# VGG
